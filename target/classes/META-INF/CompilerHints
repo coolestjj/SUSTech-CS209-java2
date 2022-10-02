@@ -1,0 +1,10 @@
+dontinline,*.*_all_jmhStub
+dontinline,*.*_avgt_jmhStub
+dontinline,*.*_sample_jmhStub
+dontinline,*.*_ss_jmhStub
+dontinline,*.*_thrpt_jmhStub
+inline,practice/lab2/Practice2$MyState.setUp
+inline,practice/lab2/Practice2.testarray
+inline,practice/lab2/Practice2.testarraylist
+inline,practice/lab2/Practice2.testintmap
+inline,practice/lab2/Practice2.testlinkedlist
