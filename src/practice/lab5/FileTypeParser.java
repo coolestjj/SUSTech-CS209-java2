@@ -44,7 +44,7 @@ public class FileTypeParser {
         } else if (header.equals("[ca, fe, ba, be]")) {
             type = "class";
         }
-        System.out.println("File Header(HEX): " + header);
+        System.out.println("File Header(Hex): " + header);
         System.out.println("File Type: " + type);
     }
 
