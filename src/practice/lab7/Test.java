@@ -18,7 +18,7 @@ public class Test {
 
         while (!service.isTerminated()) {}
 
-        System.out.println("Account1 Balance: " + account1.getBalance());
-        System.out.println("Account2 Balance: " + account2.getBalance());
+        System.out.println("Synchronized Balance: " + account1.getBalance());
+        System.out.println("Lock Balance: " + account2.getBalance());
     }
 }
